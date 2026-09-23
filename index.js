@@ -1,7 +1,7 @@
 const Pet = require("./Pet")
 const PetFactory = require("./PetFactory")
 
-console.log("🐾 =============================")
+console.log(" =============================")
 console.log("       PET SHOP - CADASTRO")
 console.log("===============================")
 
