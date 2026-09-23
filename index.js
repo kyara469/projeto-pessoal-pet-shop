@@ -57,7 +57,7 @@ console.log(`Idade do ${pet1.nome}: ${pet1.idade} anos`)
 
 console.log(" SETTER:")
 
-pet1.idade = 4;
+pet1.idade = 4
 
 console.log(`Nova idade do ${pet1.nome}: ${pet1.idade} anos`)
 
