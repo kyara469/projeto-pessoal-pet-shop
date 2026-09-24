@@ -11,7 +11,7 @@ class Cachorro extends Pet {
     }
 
     brincar() {
-        console.log(`${this.nome} está brincando com a bolinha!`)
+        console.log(`${this.nome} está brincando com a linguiça!`)
     }
 }
 
